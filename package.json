@@ -1,0 +1,19 @@
+{
+  "name": "fridaycodechill_twitter_bot",
+  "version": "1.0.0",
+  "description": "Bot for twitter where we want retweet the tweets of people who code friday's night",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faqndo97/fridaycodechill_twitter_bot.git"
+  },
+  "author": "Facundo Espinosa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faqndo97/fridaycodechill_twitter_bot/issues"
+  },
+  "homepage": "https://github.com/faqndo97/fridaycodechill_twitter_bot#readme"
+}
