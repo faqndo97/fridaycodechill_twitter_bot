@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/faqndo97/fridaycodechill_twitter_bot#readme",
   "dependencies": {
+    "lowdb": "^1.0.0",
     "twitter-lite": "^0.14.0"
   }
 }
